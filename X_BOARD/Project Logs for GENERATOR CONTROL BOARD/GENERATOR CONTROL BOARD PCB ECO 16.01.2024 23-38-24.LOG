@@ -1,0 +1,43 @@
+Add Component: Footprint Not Found ARDUINO_NANO
+Added Component: Designator=DA10(SRD-05VDC)
+Added Component: Designator=DA11(SRD-05VDC)
+Added Component: Designator=DA12(SRD-05VDC)
+Added Component: Designator=DA13(SRD-05VDC)
+Added Component: Designator=DA14(SRD-05VDC)
+Added Component: Designator=DA15(SRD-05VDC)
+Add Pin To Net: Unknown Pin: Pin DA3-4
+Add Pin To Net: Unknown Pin: Pin DA3-5
+Add Pin To Net: Unknown Pin: Pin DA3-12
+Add Pin To Net: Unknown Pin: Pin DA3-14
+Add Pin To Net: Unknown Pin: Pin DA3-15
+Add Pin To Net: Unknown Pin: Pin DA3-19
+Add Pin To Net: Unknown Pin: Pin DA3-22
+Add Pin To Net: Unknown Pin: Pin DA3-23
+Add Pin To Net: Unknown Pin: Pin DA3-24
+Add Pin To Net: Unknown Pin: Pin DA3-25
+Add Pin To Net: Unknown Pin: Pin DA3-26
+Add Pin To Net: Unknown Pin: Pin DA3-27
+Added Pin To Net: NetName=+12 Pin=DA10-1
+Added Pin To Net: NetName=NetDA10_2 Pin=DA10-2
+Added Pin To Net: NetName=NetDA10_3 Pin=DA10-3
+Added Pin To Net: NetName=NetDA10_5 Pin=DA10-5
+Added Pin To Net: NetName=+12 Pin=DA11-1
+Added Pin To Net: NetName=NetDA11_2 Pin=DA11-2
+Added Pin To Net: NetName=NetDA11_3 Pin=DA11-3
+Added Pin To Net: NetName=NetDA11_5 Pin=DA11-5
+Added Pin To Net: NetName=+12 Pin=DA12-1
+Added Pin To Net: NetName=NetDA12_2 Pin=DA12-2
+Added Pin To Net: NetName=NetDA12_3 Pin=DA12-3
+Added Pin To Net: NetName=NetDA12_5 Pin=DA12-5
+Added Pin To Net: NetName=+12 Pin=DA13-1
+Added Pin To Net: NetName=NetDA13_2 Pin=DA13-2
+Added Pin To Net: NetName=NetDA13_3 Pin=DA13-3
+Added Pin To Net: NetName=NetDA13_5 Pin=DA13-5
+Added Pin To Net: NetName=+12 Pin=DA14-1
+Added Pin To Net: NetName=NetDA14_2 Pin=DA14-2
+Added Pin To Net: NetName=NetDA14_3 Pin=DA14-3
+Added Pin To Net: NetName=NetDA14_5 Pin=DA14-5
+Added Pin To Net: NetName=+12 Pin=DA15-1
+Added Pin To Net: NetName=NetDA15_2 Pin=DA15-2
+Added Pin To Net: NetName=NetDA15_3 Pin=DA15-3
+Added Pin To Net: NetName=NetDA15_5 Pin=DA15-5

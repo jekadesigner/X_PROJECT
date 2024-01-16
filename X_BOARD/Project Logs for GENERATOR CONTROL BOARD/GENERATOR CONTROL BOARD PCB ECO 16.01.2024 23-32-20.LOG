@@ -1,0 +1,737 @@
+Added Component: Designator=C1(CAPPOL-12x25)
+Added Component: Designator=C2(CAPPOL-12x25)
+Added Component: Designator=C3(CAP-0805)
+Added Component: Designator=C4(CAP-0805)
+Added Component: Designator=C5(CAP-0805)
+Added Component: Designator=C6(CAP-0805)
+Added Component: Designator=D1(Type 3mm)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/151031YS06000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/151031YS06000?qs=LlUlMxKIyB3xSYYW%252BcuBiQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(Type 3mm)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/151031YS06000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/151031YS06000?qs=LlUlMxKIyB3xSYYW%252BcuBiQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(Type 3mm)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/151031YS06000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/151031YS06000?qs=LlUlMxKIyB3xSYYW%252BcuBiQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(Type 3mm)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/151031YS06000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/151031YS06000?qs=LlUlMxKIyB3xSYYW%252BcuBiQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(Type 3mm)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/151031YS06000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-151031YS06000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/151031YS06000?qs=LlUlMxKIyB3xSYYW%252BcuBiQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 4-SMD
+Add Component: Footprint Not Found 4-SMD
+Add Component: Footprint Not Found ARDUINO_NANO
+Add Component: Footprint Not Found 4-SMD
+Add Component: Footprint Not Found 4-SMD
+Add Component: Footprint Not Found 4-SMD
+Add Component: Footprint Not Found 4-SMD
+Add Component: Footprint Not Found 4-SMD
+Add Component: Footprint Not Found 4-SMD
+Add Component: Footprint Not Found SRD-05VDC
+Add Component: Footprint Not Found SRD-05VDC
+Add Component: Footprint Not Found SRD-05VDC
+Add Component: Footprint Not Found SRD-05VDC
+Add Component: Footprint Not Found SRD-05VDC
+Add Component: Footprint Not Found SRD-05VDC
+Added Component: Designator=J1(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J3(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J4(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J5(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J6(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J7(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J8(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J9(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J10(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J11(691101710002)
+Add component (AddParameter): Name = "Application"; Value = "Pressure Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/691101710002?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-TBL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-0805)
+Added Component: Designator=R2(RES-1206)
+Added Component: Designator=R3(RES-1206)
+Added Component: Designator=R4(RES-1206)
+Added Component: Designator=R5(RES-1206)
+Added Component: Designator=R6(RES-1206)
+Added Component: Designator=R7(RES-1206)
+Added Component: Designator=R8(SF063)
+Added Component: Designator=R9(RES-0805)
+Added Component: Designator=R10(RES-0805)
+Added Component: Designator=R11(RES-0805)
+Added Component: Designator=R12(RES-0805)
+Added Component: Designator=R13(RES-0805)
+Added Component: Designator=R14(RES-0805)
+Added Component: Designator=R15(RES-0805)
+Added Component: Designator=R16(RES-0805)
+Added Component: Designator=R17(RES-0805)
+Added Component: Designator=R18(RES-0805)
+Added Component: Designator=R19(RES-0805)
+Added Component: Designator=R20(RES-0805)
+Added Component: Designator=R21(RES-0805)
+Added Component: Designator=R22(RES-0805)
+Added Component: Designator=R23(RES-0805)
+Added Component: Designator=R24(RES-0805)
+Added Component: Designator=R25(RES-0805)
+Added Component: Designator=R26(RES-0805)
+Added Component: Designator=R27(RES-0805)
+Added Component: Designator=R28(RES-0805)
+Added Component: Designator=R29(RES-0805)
+Added Component: Designator=R30(RES-0805)
+Added Component: Designator=SW1(4301x60957x6)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/430186095716?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/430186095716?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "430186095716"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TATV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "160g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(4301x60957x6)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/430186095716?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/430186095716?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "430186095716"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TATV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "160g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(4301x60957x6)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/430186095716?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/430186095716?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "430186095716"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TATV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "160g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(FR207)
+Added Component: Designator=VD2(FR207)
+Added Component: Designator=VD3(FR207)
+Added Component: Designator=VD4(FR207)
+Added Component: Designator=VD5(FR207)
+Added Component: Designator=VD6(FR207)
+Added Component: Designator=VD7(FR207)
+Added Component: Designator=VD8(FR207)
+Added Component: Designator=VD9(FR207)
+Added Component: Designator=VD10(FR207)
+Added Component: Designator=VD11(FR207)
+Added Component: Designator=VD12(FR207)
+Added Component: Designator=VD13(FR207)
+Added Component: Designator=VD14(FR207)
+Added Component: Designator=VD15(FR207)
+Added Component: Designator=VD16(FR207)
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found SOT23-3
+Added Pin To Net: NetName=NetDA2_10 Pin=C1-1
+Added Pin To Net: NetName=NetDA3_4 Pin=C1-2
+Added Pin To Net: NetName=NetDA1_18 Pin=C2-1
+Added Pin To Net: NetName=NetDA3_2 Pin=C2-2
+Added Pin To Net: NetName=NetR1_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetDD1_5 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetDA4_8 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetDA4_6 Pin=C6-2
+Added Pin To Net: NetName=NetR1_2 Pin=D1-1
+Added Pin To Net: NetName=NetDA1_12 Pin=D1-2
+Added Pin To Net: NetName=NetR1_2 Pin=D2-1
+Added Pin To Net: NetName=NetDA1_10 Pin=D2-2
+Added Pin To Net: NetName=NetR1_2 Pin=D3-1
+Added Pin To Net: NetName=NetDA1_9 Pin=D3-2
+Added Pin To Net: NetName=NetR1_2 Pin=D4-1
+Added Pin To Net: NetName=NetDA1_3 Pin=D4-2
+Added Pin To Net: NetName=NetR1_2 Pin=D5-1
+Added Pin To Net: NetName=NetDA1_2 Pin=D5-2
+Add Pin To Net: Unknown Pin: Pin DA1-1
+Add Pin To Net: Unknown Pin: Pin DA1-2
+Add Pin To Net: Unknown Pin: Pin DA1-3
+Add Pin To Net: Unknown Pin: Pin DA1-4
+Add Pin To Net: Unknown Pin: Pin DA2-1
+Add Pin To Net: Unknown Pin: Pin DA2-2
+Add Pin To Net: Unknown Pin: Pin DA2-3
+Add Pin To Net: Unknown Pin: Pin DA2-4
+Add Pin To Net: Unknown Pin: Pin DA3-4
+Add Pin To Net: Unknown Pin: Pin DA3-5
+Add Pin To Net: Unknown Pin: Pin DA3-12
+Add Pin To Net: Unknown Pin: Pin DA3-14
+Add Pin To Net: Unknown Pin: Pin DA3-15
+Add Pin To Net: Unknown Pin: Pin DA3-19
+Add Pin To Net: Unknown Pin: Pin DA3-22
+Add Pin To Net: Unknown Pin: Pin DA3-23
+Add Pin To Net: Unknown Pin: Pin DA3-24
+Add Pin To Net: Unknown Pin: Pin DA3-25
+Add Pin To Net: Unknown Pin: Pin DA3-26
+Add Pin To Net: Unknown Pin: Pin DA3-27
+Add Pin To Net: Unknown Pin: Pin DA4-1
+Add Pin To Net: Unknown Pin: Pin DA4-2
+Add Pin To Net: Unknown Pin: Pin DA4-3
+Add Pin To Net: Unknown Pin: Pin DA4-4
+Add Pin To Net: Unknown Pin: Pin DA5-1
+Add Pin To Net: Unknown Pin: Pin DA5-2
+Add Pin To Net: Unknown Pin: Pin DA5-3
+Add Pin To Net: Unknown Pin: Pin DA5-4
+Add Pin To Net: Unknown Pin: Pin DA6-1
+Add Pin To Net: Unknown Pin: Pin DA6-2
+Add Pin To Net: Unknown Pin: Pin DA6-3
+Add Pin To Net: Unknown Pin: Pin DA6-4
+Add Pin To Net: Unknown Pin: Pin DA7-1
+Add Pin To Net: Unknown Pin: Pin DA7-2
+Add Pin To Net: Unknown Pin: Pin DA7-3
+Add Pin To Net: Unknown Pin: Pin DA7-4
+Add Pin To Net: Unknown Pin: Pin DA8-1
+Add Pin To Net: Unknown Pin: Pin DA8-2
+Add Pin To Net: Unknown Pin: Pin DA8-3
+Add Pin To Net: Unknown Pin: Pin DA8-4
+Add Pin To Net: Unknown Pin: Pin DA9-1
+Add Pin To Net: Unknown Pin: Pin DA9-2
+Add Pin To Net: Unknown Pin: Pin DA9-3
+Add Pin To Net: Unknown Pin: Pin DA9-4
+Add Pin To Net: Unknown Pin: Pin DA10-1
+Add Pin To Net: Unknown Pin: Pin DA10-2
+Add Pin To Net: Unknown Pin: Pin DA10-3
+Add Pin To Net: Unknown Pin: Pin DA10-5
+Add Pin To Net: Unknown Pin: Pin DA11-1
+Add Pin To Net: Unknown Pin: Pin DA11-2
+Add Pin To Net: Unknown Pin: Pin DA11-3
+Add Pin To Net: Unknown Pin: Pin DA11-5
+Add Pin To Net: Unknown Pin: Pin DA12-1
+Add Pin To Net: Unknown Pin: Pin DA12-2
+Add Pin To Net: Unknown Pin: Pin DA12-3
+Add Pin To Net: Unknown Pin: Pin DA12-5
+Add Pin To Net: Unknown Pin: Pin DA13-1
+Add Pin To Net: Unknown Pin: Pin DA13-2
+Add Pin To Net: Unknown Pin: Pin DA13-3
+Add Pin To Net: Unknown Pin: Pin DA13-5
+Add Pin To Net: Unknown Pin: Pin DA14-1
+Add Pin To Net: Unknown Pin: Pin DA14-2
+Add Pin To Net: Unknown Pin: Pin DA14-3
+Add Pin To Net: Unknown Pin: Pin DA14-5
+Add Pin To Net: Unknown Pin: Pin DA15-1
+Add Pin To Net: Unknown Pin: Pin DA15-2
+Add Pin To Net: Unknown Pin: Pin DA15-3
+Add Pin To Net: Unknown Pin: Pin DA15-5
+Added Pin To Net: NetName=NetDA2_13 Pin=J1-1
+Added Pin To Net: NetName=NetDA2_15 Pin=J1-2
+Added Pin To Net: NetName=NetDA2_12 Pin=J2-1
+Added Pin To Net: NetName=NetDA2_14 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetDD1_35 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=IN2 Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=ADJ0 Pin=J5-2
+Added Pin To Net: NetName=NetC5_1 Pin=J6-1
+Added Pin To Net: NetName=NetC4_2 Pin=J6-2
+Added Pin To Net: NetName=NetA1_22 Pin=J7-1
+Added Pin To Net: NetName=NetA1_21 Pin=J7-2
+Added Pin To Net: NetName=NetA1_11 Pin=J8-1
+Added Pin To Net: NetName=NetA1_7 Pin=J8-2
+Added Pin To Net: NetName=NetA1_4 Pin=J9-1
+Added Pin To Net: NetName=NetA1_3 Pin=J9-2
+Added Pin To Net: NetName=MDS Pin=J10-1
+Added Pin To Net: NetName=LA Pin=J10-2
+Added Pin To Net: NetName=NetC2_2 Pin=J11-1
+Added Pin To Net: NetName=NetC1_2 Pin=J11-2
+Added Pin To Net: NetName=ADJ0 Pin=R1-1
+Added Pin To Net: NetName=NetR14_1 Pin=R1-2
+Added Pin To Net: NetName=IN1 Pin=R2-1
+Added Pin To Net: NetName=NetDA1_1 Pin=R2-2
+Added Pin To Net: NetName=FST Pin=R3-1
+Added Pin To Net: NetName=NetDA2_1 Pin=R3-2
+Added Pin To Net: NetName=IN1 Pin=R4-1
+Added Pin To Net: NetName=FPWM Pin=R4-2
+Added Pin To Net: NetName=NetDA2_10 Pin=R5-1
+Added Pin To Net: NetName=FPWM Pin=R5-2
+Added Pin To Net: NetName=FST Pin=R6-1
+Added Pin To Net: NetName=FG1 Pin=R6-2
+Added Pin To Net: NetName=NetDA1_18 Pin=R7-1
+Added Pin To Net: NetName=FG1 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR14_1 Pin=R8-2
+Added Pin To Net: NetName=NetDA3_7 Pin=R8-3
+Added Pin To Net: NetName=NetDA3_6 Pin=R9-1
+Added Pin To Net: NetName=NetR14_1 Pin=R9-2
+Added Pin To Net: NetName=NetDA2_16 Pin=R10-1
+Added Pin To Net: NetName=NetR14_1 Pin=R10-2
+Added Pin To Net: NetName=NetDD1_5 Pin=R11-1
+Added Pin To Net: NetName=NetR14_1 Pin=R11-2
+Added Pin To Net: NetName=NetDA4_8 Pin=R12-1
+Added Pin To Net: NetName=NetR14_1 Pin=R12-2
+Added Pin To Net: NetName=NetDA4_6 Pin=R13-1
+Added Pin To Net: NetName=NetR14_1 Pin=R13-2
+Added Pin To Net: NetName=NetDD1_21 Pin=R14-1
+Added Pin To Net: NetName=NetDA4_1 Pin=R14-2
+Added Pin To Net: NetName=ADJ1 Pin=R15-1
+Added Pin To Net: NetName=NetC23_2 Pin=R15-2
+Added Pin To Net: NetName=NetDA4_4 Pin=R16-1
+Added Pin To Net: NetName=NetC22_1 Pin=R16-2
+Added Pin To Net: NetName=NetDA3_8 Pin=R17-1
+Added Pin To Net: NetName=NetC11_1 Pin=R17-2
+Added Pin To Net: NetName=AVDD Pin=R18-1
+Added Pin To Net: NetName=NetC9_2 Pin=R18-2
+Added Pin To Net: NetName=ADJ2 Pin=R19-1
+Added Pin To Net: NetName=NetC8_1 Pin=R19-2
+Added Pin To Net: NetName=NetDA4_3 Pin=R20-1
+Added Pin To Net: NetName=FG Pin=R20-2
+Added Pin To Net: NetName=NetC23_1 Pin=R21-1
+Added Pin To Net: NetName=FB_BK Pin=R21-2
+Added Pin To Net: NetName=NetC19_1 Pin=R22-1
+Added Pin To Net: NetName=EXT_WD Pin=R22-2
+Added Pin To Net: NetName=NetC10_2 Pin=R23-1
+Added Pin To Net: NetName=EXT_CLK Pin=R23-2
+Added Pin To Net: NetName=NetC8_2 Pin=R24-1
+Added Pin To Net: NetName=DIR Pin=R24-2
+Added Pin To Net: NetName=NetC7_2 Pin=R25-1
+Added Pin To Net: NetName=COM Pin=R25-2
+Added Pin To Net: NetName=NetC3_2 Pin=R26-1
+Added Pin To Net: NetName=NetDA1_12 Pin=R26-2
+Added Pin To Net: NetName=NetA1_23 Pin=R27-1
+Added Pin To Net: NetName=NetDA1_2 Pin=R27-2
+Added Pin To Net: NetName=NetA1_16 Pin=R28-1
+Added Pin To Net: NetName=NetDA1_10 Pin=R28-2
+Added Pin To Net: NetName=NetA1_5 Pin=R29-1
+Added Pin To Net: NetName=NetDA1_9 Pin=R29-2
+Added Pin To Net: NetName=NetA1_2 Pin=R30-1
+Added Pin To Net: NetName=NetDA1_3 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=SW1-A1
+Added Pin To Net: NetName=GND Pin=SW1-A2
+Added Pin To Net: NetName=NetDD1_5 Pin=SW1-B1
+Added Pin To Net: NetName=NetDD1_5 Pin=SW1-B2
+Added Pin To Net: NetName=GND Pin=SW2-A1
+Added Pin To Net: NetName=GND Pin=SW2-A2
+Added Pin To Net: NetName=NetDA4_8 Pin=SW2-B1
+Added Pin To Net: NetName=NetDA4_8 Pin=SW2-B2
+Added Pin To Net: NetName=GND Pin=SW3-A1
+Added Pin To Net: NetName=GND Pin=SW3-A2
+Added Pin To Net: NetName=NetDA4_6 Pin=SW3-B1
+Added Pin To Net: NetName=NetDA4_6 Pin=SW3-B2
+Added Pin To Net: NetName=NetR1_2 Pin=VD1-1
+Added Pin To Net: NetName=IN2 Pin=VD1-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD2-1
+Added Pin To Net: NetName=NetDD1_35 Pin=VD2-2
+Added Pin To Net: NetName=NetDA2_15 Pin=VD3-1
+Added Pin To Net: NetName=NetDA3_4 Pin=VD3-2
+Added Pin To Net: NetName=NetDA2_13 Pin=VD4-1
+Added Pin To Net: NetName=NetDA3_4 Pin=VD4-2
+Added Pin To Net: NetName=NetDA2_14 Pin=VD5-1
+Added Pin To Net: NetName=NetDA3_2 Pin=VD5-2
+Added Pin To Net: NetName=NetDA2_12 Pin=VD6-1
+Added Pin To Net: NetName=NetDA3_2 Pin=VD6-2
+Added Pin To Net: NetName=NetDA2_10 Pin=VD7-1
+Added Pin To Net: NetName=NetDA2_15 Pin=VD7-2
+Added Pin To Net: NetName=NetDA2_10 Pin=VD8-1
+Added Pin To Net: NetName=NetDA2_13 Pin=VD8-2
+Added Pin To Net: NetName=NetDA1_18 Pin=VD9-1
+Added Pin To Net: NetName=NetDA2_14 Pin=VD9-2
+Added Pin To Net: NetName=NetDA1_18 Pin=VD10-1
+Added Pin To Net: NetName=NetDA2_12 Pin=VD10-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD11-1
+Added Pin To Net: NetName=NetC6_1 Pin=VD11-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD12-1
+Added Pin To Net: NetName=NetC3_2 Pin=VD12-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD13-1
+Added Pin To Net: NetName=NetA1_23 Pin=VD13-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD14-1
+Added Pin To Net: NetName=NetA1_16 Pin=VD14-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD15-1
+Added Pin To Net: NetName=NetA1_5 Pin=VD15-2
+Added Pin To Net: NetName=NetR1_2 Pin=VD16-1
+Added Pin To Net: NetName=NetA1_2 Pin=VD16-2
+Add Pin To Net: Unknown Pin: Pin VT1-1
+Add Pin To Net: Unknown Pin: Pin VT1-2
+Add Pin To Net: Unknown Pin: Pin VT1-3
+Add Pin To Net: Unknown Pin: Pin VT2-1
+Add Pin To Net: Unknown Pin: Pin VT2-2
+Add Pin To Net: Unknown Pin: Pin VT2-3
+Add Pin To Net: Unknown Pin: Pin VT3-1
+Add Pin To Net: Unknown Pin: Pin VT3-2
+Add Pin To Net: Unknown Pin: Pin VT3-3
+Add Pin To Net: Unknown Pin: Pin VT4-1
+Add Pin To Net: Unknown Pin: Pin VT4-2
+Add Pin To Net: Unknown Pin: Pin VT4-3
+Add Pin To Net: Unknown Pin: Pin VT5-1
+Add Pin To Net: Unknown Pin: Pin VT5-2
+Add Pin To Net: Unknown Pin: Pin VT5-3
+Add Pin To Net: Unknown Pin: Pin VT6-1
+Add Pin To Net: Unknown Pin: Pin VT6-2
+Add Pin To Net: Unknown Pin: Pin VT6-3
+Change Net Name : Old Net Name=ADJ0 New Net Name=TEMP_DET
+Change Net Name : Old Net Name=ADJ1 New Net Name=STARTER
+Change Net Name : Old Net Name=ADJ2 New Net Name=RESERVE_2
+Change Net Name : Old Net Name=AVDD New Net Name=RESERVE_1
+Change Net Name : Old Net Name=COM New Net Name=NetR25_2
+Change Net Name : Old Net Name=DIR New Net Name=NetR24_2
+Change Net Name : Old Net Name=EXT_CLK New Net Name=NetR23_2
+Change Net Name : Old Net Name=EXT_WD New Net Name=NetR22_2
+Change Net Name : Old Net Name=FB_BK New Net Name=NetR21_2
+Change Net Name : Old Net Name=FG1 New Net Name=NetR6_2
+Change Net Name : Old Net Name=FG New Net Name=NetR20_2
+Change Net Name : Old Net Name=FPWM New Net Name=NetR4_2
+Change Net Name : Old Net Name=FST New Net Name=NetR3_1
+Change Net Name : Old Net Name=IN1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=IN2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=LA New Net Name=NetDA15_5
+Change Net Name : Old Net Name=MDS New Net Name=NetDA15_3
+Change Net Name : Old Net Name=NetA1_2 New Net Name=NetDA15_2
+Change Net Name : Old Net Name=NetA1_3 New Net Name=NetDA14_5
+Change Net Name : Old Net Name=NetA1_4 New Net Name=NetDA14_3
+Change Net Name : Old Net Name=NetA1_5 New Net Name=NetDA14_2
+Change Net Name : Old Net Name=NetA1_7 New Net Name=NetDA13_5
+Change Net Name : Old Net Name=NetA1_11 New Net Name=NetDA13_3
+Change Net Name : Old Net Name=NetA1_16 New Net Name=NetDA13_2
+Change Net Name : Old Net Name=NetA1_21 New Net Name=NetDA12_5
+Change Net Name : Old Net Name=NetA1_22 New Net Name=NetDA12_3
+Change Net Name : Old Net Name=NetA1_23 New Net Name=NetDA12_2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetDA11_5
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetDA11_3
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetDA11_2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetDA10_5
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetDA10_3
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetDA10_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetDA9_3
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetDA9_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetDA8_3
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetDA8_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetDA7_3
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetDA7_1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetDA6_3
+Change Net Name : Old Net Name=NetC22_1 New Net Name=NetDA6_1
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetDA5_3
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetDA5_1
+Change Net Name : Old Net Name=NetDA1_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetDA1_3 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetDA1_9 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetDA1_10 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetDA1_12 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetDA1_18 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetDA2_10 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetDA2_12 New Net Name=N_INTERNAL
+Change Net Name : Old Net Name=NetDA2_13 New Net Name=N_EXTERNAL
+Change Net Name : Old Net Name=NetDA2_14 New Net Name=L_INTERNAL
+Change Net Name : Old Net Name=NetDA2_15 New Net Name=L_EXTERNAL
+Change Net Name : Old Net Name=NetDA2_16 New Net Name=INT_DET
+Change Net Name : Old Net Name=NetDA3_2 New Net Name=GND_H_INT
+Change Net Name : Old Net Name=NetDA3_4 New Net Name=GND_H_EXT
+Change Net Name : Old Net Name=NetDA3_6 New Net Name=EXT_DET
+Change Net Name : Old Net Name=NetDA3_7 New Net Name=DELAY_AIR_DAMPER
+Change Net Name : Old Net Name=NetDA3_8 New Net Name=CONTACTOR_INT
+Change Net Name : Old Net Name=NetDA4_4 New Net Name=CONTACTOR_EXT
+Change Net Name : Old Net Name=NetDA4_6 New Net Name=BTN_C
+Change Net Name : Old Net Name=NetDA4_8 New Net Name=BTN_B
+Change Net Name : Old Net Name=NetDD1_5 New Net Name=BTN_A
+Change Net Name : Old Net Name=NetDD1_21 New Net Name=AIR_DAMPER
+Change Net Name : Old Net Name=NetDD1_35 New Net Name=+12PU
+Change Net Name : Old Net Name=NetR1_2 New Net Name=+12
+Change Net Name : Old Net Name=NetR14_1 New Net Name=+5V
