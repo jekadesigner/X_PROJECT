@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetDA12_5 Pin=DA12-5
+Removed Pin From Net: NetName=NetJ4_2 Pin=J4-2
+Removed Pin From Net: NetName=NetDA12_5 Pin=J7-2
+Removed Pin From Net: NetName=+12 Pin=VD1-1
+Removed Pin From Net: NetName=NetJ4_2 Pin=VD1-2
+Change Component Comment : Designator=R11 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R12 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R13 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=VD2 Old Comment=FR207 New Comment=IN5821
+Added Component: Designator=R31(RES-0805)
+Added Component: Designator=R32(RES-0805)
+Added Component: Designator=R33(RES-3W)
+Added Component: Designator=R34(RES-0805)
+Added Component: Designator=R35(RES-0805)
+Added Component: Designator=VT7(TO-220-3)
+Added Pin To Net: NetName=NetDA12_5 Pin=DA3-8
+Added Pin To Net: NetName=RESERVE_1 Pin=DA3-28
+Added Pin To Net: NetName=RESERVE_2 Pin=DA3-29
+Added Pin To Net: NetName=NetDA12_5 Pin=R31-2
+Added Pin To Net: NetName=NetDA12_5 Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=NetJ4_2 Pin=R34-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R35-2
+Added Pin To Net: NetName=NetJ4_2 Pin=VT7-1
+Added Pin To Net: NetName=+12 Pin=VT7-3
+Change Net Name : Old Net Name=NetDA12_5 New Net Name=V_BAT_SENSE
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetR34_2
+Added Pin To Net: NetName=12V  BAT Pin=J4-2
+Added Pin To Net: NetName=12V  BAT Pin=R31-1
+Added Pin To Net: NetName=12V  BAT Pin=R33-1
+Added Pin To Net: NetName=12V  BAT Pin=VD1-2
+Added Net: Name=12V  BAT
+Added Pin To Net: NetName=BAT_EN Pin=DA3-7
+Added Pin To Net: NetName=BAT_EN Pin=R35-1
+Added Net: Name=BAT_EN
+Added Pin To Net: NetName=NetDA12_4 Pin=DA12-4
+Added Pin To Net: NetName=NetDA12_4 Pin=J7-2
+Added Net: Name=NetDA12_4
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=VD1-1
+Added Pin To Net: NetName=NetR33_2 Pin=VT7-2
+Added Net: Name=NetR33_2
