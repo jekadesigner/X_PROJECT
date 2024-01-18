@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+12 Pin=C3-1
+Removed Pin From Net: NetName=+12 Pin=DA3-15
+Removed Pin From Net: NetName=+12 Pin=VD2-1
+Removed Pin From Net: NetName=+12 Pin=VT7-3
+Change Component Comment : Designator=R26 Old Comment=1K New Comment=300
+Change Component Comment : Designator=R27 Old Comment=1K New Comment=300
+Change Component Comment : Designator=R28 Old Comment=1K New Comment=300
+Change Component Comment : Designator=R29 Old Comment=1K New Comment=300
+Change Component Comment : Designator=R30 Old Comment=1K New Comment=300
+Change Component Comment : Designator=VT7 Old Comment=IRF3205 New Comment=MOSFET-N-GDS
+Add Component: Footprint Not Found Type 3mm
+Added Component: Designator=DA16(mini-360)
+Added Component: Designator=R36(RES-0805)
+Added Component: Designator=R37(RES-0805)
+Added Pin To Net: NetName=GND Pin=DA16-2
+Added Pin To Net: NetName=GND Pin=DA16-3
+Added Pin To Net: NetName=+12 Pin=DA16-4
+Added Pin To Net: NetName=NetDA10_2 Pin=R36-1
+Added Pin To Net: NetName=+12 Pin=R37-2
+Change Net Name : Old Net Name=+12 New Net Name=+5V_R
+Added Pin To Net: NetName=+12 Pin=C3-1
+Added Pin To Net: NetName=+12 Pin=DA3-15
+Added Pin To Net: NetName=+12 Pin=DA16-1
+Added Pin To Net: NetName=+12 Pin=VD2-1
+Added Pin To Net: NetName=+12 Pin=VT7-3
+Added Net: Name=+12
+Added Pin To Net: NetName=NetD6_1 Pin=R37-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=R36-2
+Added Net: Name=NetD6_2
