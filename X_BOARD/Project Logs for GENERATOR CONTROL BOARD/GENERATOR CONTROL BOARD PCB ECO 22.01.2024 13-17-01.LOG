@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TEMP_DET Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J14-2
+Removed Pin From Net: NetName=TEMP_DET Pin=R1-1
+Change Component Footprint: Designator=D6 Old Footprint=Type 3mm New Footprint=Type 3mm
+Added Component: Designator=DA17(4-SMD)
+Added Component: Designator=VT7(SOT23-3)
+Added Pin To Net: NetName=NetDA17_1 Pin=DA17-1
+Added Pin To Net: NetName=GND_H_LOAD Pin=DA17-2
+Added Pin To Net: NetName=GND Pin=DA17-3
+Added Pin To Net: NetName=LOAD_AC_DET Pin=DA17-4
+Added Pin To Net: NetName=NetR35_2 Pin=VT7-1
+Added Pin To Net: NetName=NetR33_1 Pin=VT7-2
+Added Pin To Net: NetName=+5V Pin=VT7-3
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=R1-1
+Added Net: Name=NetJ5_2
