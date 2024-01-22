@@ -1,0 +1,4 @@
+Added Component: Designator=R41(SF063)
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=+5V Pin=R41-2
+Added Pin To Net: NetName=SERVO ANGLE Pin=R41-3
