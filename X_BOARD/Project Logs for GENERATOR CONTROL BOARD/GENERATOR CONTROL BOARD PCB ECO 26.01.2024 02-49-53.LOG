@@ -1,0 +1,18 @@
+Added Component: Designator=X4(CONN-PLS-2-2.54mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Database URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://el.udtech.dev/component/1048/detail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "X-00067"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "In Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PLS-2"; VariantName = "[No Variations]"
+Added Component: Designator=X5(CONN-PLS-2-2.54mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Database URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://el.udtech.dev/component/1048/detail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "X-00067"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "In Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLS-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PLS-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X4-1
+Added Pin To Net: NetName=+5V Pin=X4-2
+Added Pin To Net: NetName=SCL Pin=X5-1
+Added Pin To Net: NetName=SDA Pin=X5-2

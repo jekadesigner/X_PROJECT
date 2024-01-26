@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AIR_DAMPER Pin=DA3-27
+Removed Pin From Net: NetName=PWM Pin=DA3-29
+Added Pin To Net: NetName=PWM Pin=DA3-27
+Added Pin To Net: NetName=AIR_DAMPER Pin=DA3-29
