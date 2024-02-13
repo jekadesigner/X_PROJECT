@@ -1,6 +1,0 @@
-Added Component: Designator=R37(RES-0805)
-Added Component: Designator=R44(RES-0805)
-Added Pin To Net: NetName=+5V Pin=R37-1
-Added Pin To Net: NetName=SDA Pin=R37-2
-Added Pin To Net: NetName=+5V Pin=R44-1
-Added Pin To Net: NetName=SCL Pin=R44-2

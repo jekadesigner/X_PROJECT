@@ -1,6 +1,0 @@
-Change Footprint: Footprint Not Found Type 3mm
-Added Component: Designator=DA16(mini-360)
-Added Pin To Net: NetName=+12 Pin=DA16-1
-Added Pin To Net: NetName=GND Pin=DA16-2
-Added Pin To Net: NetName=GND Pin=DA16-3
-Added Pin To Net: NetName=+5V_R Pin=DA16-4

@@ -1,0 +1,3 @@
+Added Component: Designator=SW1(KCD1-101)
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND_EN Pin=SW1-3

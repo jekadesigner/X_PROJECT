@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetDA11_3 Pin=J11-1
+Removed Pin From Net: NetName=NetDA11_5 Pin=J11-2
+Added Component: Designator=(XL6009)
+Added Component: Designator=VD2(FR207)
+Added Pin To Net: NetName=GND Pin=-1
+Added Pin To Net: NetName=NetDA11_3 Pin=-2
+Added Pin To Net: NetName=+8.4 Pin=-3
+Added Pin To Net: NetName=GND Pin=-4
+Added Pin To Net: NetName=NetDA11_5 Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=NetDA11_5 Pin=VD2-1
+Added Pin To Net: NetName=GND Pin=VD2-2
+Change Net Name : Old Net Name=NetDA11_3 New Net Name=12V_relay
