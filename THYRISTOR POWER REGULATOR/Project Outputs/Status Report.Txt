@@ -1,0 +1,10 @@
+Output: 3D Model
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [THYRISTOR POWER REGULATOR.PcbDoc]
+   Generated File[3D Model.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:02:03 On 16.02.2024
