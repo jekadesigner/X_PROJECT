@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: THYRISTOR POWER REGULATOR.PcbDoc   16.02.2024  00:01:59
+NCDrill File Report For: THYRISTOR POWER REGULATOR.PcbDoc   16.02.2024  23:20:01
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,10 @@ ASCII RoundHoles File : NC Drill.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      1mm (39mil)                                               Round             10        PTH        125.05mm (4.92inch)
-T2      1.2mm (47mil)                                             Round             9         PTH        88.70mm (3.49inch)
-T3      1.6mm (63mil)                                             Round             4         PTH        20.00mm (0.79inch)
-T4      1mm (39mil)                                               Round             4         NPTH       97.51mm (3.84inch)
+T1      1mm (39mil)                                               Round             10        PTH        115.05mm (4.53inch)
+T2      1.2mm (47mil)                                             Round             9         PTH        72.38mm (2.85inch)
+T3      1mm (39mil)                                               Round             4         NPTH       87.51mm (3.45inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              27
+Totals                                                                              23
 
 Total Processing Time (hh:mm:ss) : 00:00:00
