@@ -1,0 +1,10 @@
+Output: 3D Model
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [FILTER.PcbDoc]
+   Generated File[FILTER.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 05:02:22 On 18.02.2024
