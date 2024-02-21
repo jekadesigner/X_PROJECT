@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GENERATOR CONTROL BOARD.PcbDoc   21.02.2024  21:37:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NC Drill-RoundHoles.TXT
+ASCII SlotHoles File : NC Drill-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             28        PTH        589.36mm (23.20inch)
+T2      0.9mm (35mil)                                             Round             10        PTH        96.00mm (3.78inch)
+T3      1mm (39mil)                                               Round             46        PTH        683.46mm (26.91inch)
+T4      1.2mm (47mil)                                             Round             4         PTH        35.20mm (1.39inch)
+T5      1.3mm (51mil)                                             Round             87        PTH        928.13mm (36.54inch)
+T6      1.8mm (71mil)                                             Round             12        PTH        160.00mm (6.30inch)
+T7      1.8mm (71mil)                                             Slot              3         PTH        42.93mm (1.69inch)
+T8      1mm (39mil)                                               Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              191
+
+Total Processing Time (hh:mm:ss) : 00:00:00

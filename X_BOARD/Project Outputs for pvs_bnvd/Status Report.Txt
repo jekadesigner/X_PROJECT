@@ -1,0 +1,10 @@
+Output: 3D Model
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [GENERATOR CONTROL BOARD.PcbDoc]
+   Generated File[3D Model.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:38:19 On 21.02.2024
