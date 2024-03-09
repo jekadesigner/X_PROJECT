@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=C3 NewDesignator=C10
+Change Component Designator: OldDesignator=C4 NewDesignator=C26
+Change Component Designator: OldDesignator=C5 NewDesignator=C25
+Change Component Designator: OldDesignator=C6 NewDesignator=C27
+Added Component: Designator=C1(CAPPOL8x12)
+Add Component: Footprint Not Found MKP 100nF 275VAC
+Added Component: Designator=C3(CAPPOL8x12)
+Added Component: Designator=C4(CAPPOL8x12)
+Add Component: Footprint Not Found MKP 100nF 275VAC
+Add Component: Footprint Not Found MKP 100nF 275VAC
+Added Component: Designator=C7(CAPPOL8x12)
+Add Component: Footprint Not Found MKP 100nF 275VAC
+Add Component: Footprint Not Found MKP 100nF 275VAC
+Add Component: Footprint Not Found MKP 100nF 275VAC
+Added Component: Designator=C28(CAPPOL8x12)
+Add Component: Footprint Not Found MKP 100nF 275VAC
+Added Component: Designator=C31(CAPPOL8x12)
+Added Component: Designator=C34(CAPPOL8x12)
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists

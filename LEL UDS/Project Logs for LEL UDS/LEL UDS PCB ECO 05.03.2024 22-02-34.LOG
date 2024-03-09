@@ -1,0 +1,27 @@
+Added Component: Designator=D3(DIP14)
+Added Component: Designator=D3(DIP14)
+Added Component: Designator=D6(DIP14)
+Added Pin To Net: NetName=3_+9V Pin=D3-7
+Added Pin To Net: NetName=3_+9V Pin=D3-7
+Added Pin To Net: NetName=-9V Pin=D3-14
+Added Pin To Net: NetName=-9V Pin=D3-14
+Added Pin To Net: NetName=3_+9V Pin=D6-7
+Added Pin To Net: NetName=-9V Pin=D6-14
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
+Add Net: Net with name "NetVD?_1" already exists
