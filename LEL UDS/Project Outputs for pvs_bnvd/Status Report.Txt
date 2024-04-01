@@ -1,0 +1,10 @@
+Output: 3D Model
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [LEL UDS.PcbDoc]
+   Generated File[LEL UDS.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:48:56 On 01.04.2024
